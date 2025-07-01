@@ -16,13 +16,14 @@ A passionate writer and blogger, I believe in continuous learning and creating s
 
 
 	🌟 Blue Star Awards – Youth Icon of the Year:Honored for the book Treasured Droplets 
-    ![alt text](image.png)
+ 	![image](https://github.com/user-attachments/assets/08eb1f9a-8b0d-458b-bf54-1764bf7538f7)
 
-	🖋️ Magic Book of Records – Awarded for the book 5Cs of Mother India 
-    ![alt text](image-1.png)
+    	🖋️ Magic Book of Records – Awarded for the book 5Cs of Mother India 
+	![image-1](https://github.com/user-attachments/assets/2b4f659e-fe8f-4606-84aa-072be9903009)
 	
 	💻 Amazon Future Engineer – Python Coding Program:Completed the Python Coding Program under Amazon Future Engineers
-    ![alt text](image-2.png) 
+ 	![image-2](https://github.com/user-attachments/assets/d73e3094-2b11-4ba2-9893-9a1e2d567323)
+
 
 # Contact Info
   
