@@ -5,7 +5,7 @@ I am a Computer Science student at PSG Tech, passionate about Cloud Computing an
 A passionate writer and blogger, I believe in continuous learning and creating solutions that have a lasting impact. I'm also a voracious reader, constantly seeking new perspectives and knowledge across disciplines.
 
 # Interests
-1. Ai
+1. AI
 2. Cycling
 3. Reading
 4. Blogging
@@ -15,13 +15,13 @@ A passionate writer and blogger, I believe in continuous learning and creating s
 # Achievements
 
 
-	🌟 Blue Star Awards – Youth Icon of the Year:Honored for the book Treasured Droplets 
+	🌟 Blue Star Awards – Youth Icon of the Year: Honored for the book Treasured Droplets 
  	![image](https://github.com/user-attachments/assets/08eb1f9a-8b0d-458b-bf54-1764bf7538f7)
 
     	🖋️ Magic Book of Records – Awarded for the book 5Cs of Mother India 
 	![image-1](https://github.com/user-attachments/assets/2b4f659e-fe8f-4606-84aa-072be9903009)
 	
-	💻 Amazon Future Engineer – Python Coding Program:Completed the Python Coding Program under Amazon Future Engineers
+	💻 Amazon Future Engineer – Python Coding Program: Completed the Python Coding Program under Amazon Future Engineers
  	![image-2](https://github.com/user-attachments/assets/d73e3094-2b11-4ba2-9893-9a1e2d567323)
 
 
